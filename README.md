@@ -4,8 +4,7 @@
 </p> 
  
 - 🔭I’m currently working on **Simplon**
-- 🌱 I’m currently learning **HTML/ CSS** and **JS**
-- 🤔 I’m looking for help with to find a 5-week **development internship** for **April**
+- 🌱 I’m currently learning **HTML/ CSS**/ **JS** and PHP/MySQL
 - 😄 Pronouns: Sued
 
 
