@@ -1,11 +1,11 @@
 
- <p style="text-align:center;">Hello je m'appelle Saadia.<img src="https://github.com/SCHAD3/SCHAD3/assets/151553315/578910f3-528a-4a16-b0a4-8b2291c4e509" style="width:50px">
+ <p style="text-align:center;">Hello, je m'appelle Saadia.<img src="https://github.com/SCHAD3/SCHAD3/assets/151553315/578910f3-528a-4a16-b0a4-8b2291c4e509" style="width:30px">
 </p> 
  
 
 Actuellement en préparation Titre professionnel (TP) de niveau VI-Développeuse en intelligence artificielle, je recherche une alternance à partir de fevrier 2025.
 
-En amont l'Ecole IA MICROSOFT By Simplon dispense une preparation operationelle aux competences de septembre 2024 à février 2025, organisée comme suit:
+En amont l'Ecole IA MICROSOFT By Simplon dispense une préparation opérationelle aux compétences de septembre 2024 à février 2025, organisée comme suit:
  
 **Certifications** : 
 
@@ -15,7 +15,7 @@ En amont l'Ecole IA MICROSOFT By Simplon dispense une preparation operationelle 
 
 **Compétences visées** : 
 
-**BIG DATA**: Collecte/stockage de la donnée
+**BIG DATA**: Collecte/stockage de la donnée,
 Automatisation, extraction et traitement de la
 donnée : scraping, programmation requêtes
 HTTP/SQL,
