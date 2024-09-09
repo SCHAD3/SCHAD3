@@ -18,23 +18,23 @@ En amont l'Ecole IA MICROSOFT By Simplon dispense une preparation operationelle 
 **BIG DATA**: Collecte/stockage de la donnée
 Automatisation, extraction et traitement de la
 donnée : scraping, programmation requêtes
-HTTP/SQL
-Script d'agrégation de données
-Création de base de données
+HTTP/SQL,
+Script d'agrégation de données,
+Création de base de données,
 Configuration d'une API avec REST
 
 **INTEGRATION DES SERVICES IA**:
-Veille technique et règlementaire
-Benchmark et paramétrage
-Développement d'une API avec un modèle d'IA
+Veille technique et règlementaire,
+Benchmark et paramétrage,
+Développement d'une API avec un modèle d'IA,
 Intégration de l'API dans une application ou un
-service d'IA
+service d'IA,
 Monitoring & tests automatiques d'un modèle IA
 
 **PROGRAMMATION**:
-Analyse du besoin
-Conception architecture technique et applicative
-Préconisation méthodes et outils
+Analyse du besoin,
+Conception architecture technique et applicative,
+Préconisation méthodes et outils,
 Coordination de la réalisation technique (MLOPs,
 Scrum)
 Programmation des composants techniques et des
